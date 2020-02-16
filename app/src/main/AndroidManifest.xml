@@ -12,7 +12,8 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true">
-        <activity android:name=".MiPicasso"></activity>
+        <activity android:name=".MiFresco"></activity>
+        <activity android:name=".MiPicasso" />
         <activity android:name=".MiImageLoader" />
         <activity android:name=".MainActivity">
             <intent-filter>

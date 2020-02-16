@@ -21,4 +21,9 @@ public class MainActivity extends AppCompatActivity {
     public void mipicasso(View view) {
         startActivity(new Intent(this, MiPicasso.class));
     }
+
+    public void mifresco(View view) {
+        startActivity(new Intent(this, MiFresco.class));
+    }
+
 }
